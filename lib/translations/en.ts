@@ -20,9 +20,9 @@ export const en = {
         twitter: "Follow on"
     },
     hero: {
-        badge: "Next.js + shadcn/ui",
-        subtitle: "Demo by clicking the button below and try available tools",
-        title: "OpenAI Realtime API (WebRTC)"
+        badge: "TOOP.IE",
+        subtitle: "Improve your interactions with clients",
+        title: "TOOP.IE Role Play AI"
     },
     messageControls: {
         content: "Content",
